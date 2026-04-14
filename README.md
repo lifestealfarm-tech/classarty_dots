@@ -57,8 +57,8 @@ INSTALL SCRIPT (PYWAL ONLY)
 
     Installs and sets up pywal
 
-    chmod +x install.sh
-    ./install.sh
+    chmod +x pywal_install.sh
+    ./pywal_install.sh
 
 ==================================================
 
