@@ -46,11 +46,15 @@ Ghostty terminal
 ==================================================
 
 BACKUP / RESTORE
+
 dconf dump /org/gnome/shell/extensions/ > extensions.conf
+
 dconf load /org/gnome/shell/extensions/ < extensions.conf
 
 GHOSTTY
+
 Apply:
+
 Open terminal, right click, open configuration, paste the config there
 
 ==================================================
