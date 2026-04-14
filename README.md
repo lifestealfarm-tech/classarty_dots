@@ -1,3 +1,4 @@
+
 ==================================================
 
 GNOME EXTENSIONS SETUP
@@ -52,7 +53,7 @@ GHOSTTY
 
 ==================================================
 
-INSTALL SCRIPT
+INSTALL SCRIPT (PYWAL ONLY)
 
     chmod +x install.sh
     ./install.sh
