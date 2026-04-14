@@ -1,0 +1,29 @@
+window-decoration = false
+background-opacity = 0.92
+
+window-padding-x = 10
+window-padding-y = 10
+
+background = #1a1a1a
+foreground = #e6e6e6
+
+cursor-color = #d0d0d0
+selection-background = #3a3a3a
+
+palette = 0=#1a1a1a
+palette = 1=#c46c6c
+palette = 2=#7fa87f
+palette = 3=#c9b37a
+palette = 4=#7a9fc9
+palette = 5=#b48ead
+palette = 6=#7fbfbf
+palette = 7=#d8d8d8
+
+palette = 8=#555555
+palette = 9=#d78787
+palette = 10=#a3c9a3
+palette = 11=#e6d39b
+palette = 12=#9bbbe6
+palette = 13=#c8a2c8
+palette = 14=#a3dede
+palette = 15=#ffffff
