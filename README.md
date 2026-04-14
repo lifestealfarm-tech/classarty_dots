@@ -3,7 +3,7 @@
 
 GNOME EXTENSIONS SETUP
 
-    clean setup | simple install | easy restore
+    clean setup | simple install | consistent results
 
 ==================================================
 
@@ -28,12 +28,12 @@ EXTENSIONS
 
 INSTALL
 
-    GNOME Extensions App
-        → search exact names
-        → install manually (fast and reliable)
-        → extensions updated: 2026-04-15
+    Use GNOME Extensions app
+        → search names exactly as listed
+        → install each extension
+        → tested on 2026-04-15
 
-    Ghostty Terminal
+    Optional: install Ghostty for matching terminal setup
 
 ==================================================
 
@@ -48,12 +48,14 @@ GHOSTTY
 
     Apply:
         open terminal
-        right click → open configuration
+        right click → configuration
         paste config
 
 ==================================================
 
 INSTALL SCRIPT (PYWAL ONLY)
+
+    Installs and sets up pywal
 
     chmod +x install.sh
     ./install.sh
@@ -63,14 +65,14 @@ INSTALL SCRIPT (PYWAL ONLY)
 USAGE
 
     - change wallpaper in GNOME
-    - colors update automatically
+    - colors update automatically via pywal
 
 ==================================================
 
 NOTES
 
-    - works after restart
-    - GNOME only (auto mode)
+    - restart session if needed
+    - GNOME only for auto mode
     - manual:
         wal -i image.jpg
 
@@ -78,6 +80,7 @@ NOTES
 
 LICENSE
 
-    MIT
+    MIT (configs only)
 
 ==================================================
+
