@@ -1,62 +1,82 @@
-# classarty_dots
 ==================================================
 
 GNOME EXTENSIONS SETUP
 
-clean setup | simple install | easy restore
+    clean setup | simple install | easy restore
 
 ==================================================
 
 EXTENSIONS
 
-[+] ArcMenu 
-
-[+] Bluetooth Battery Meter 
-
-[+] Blur My Shell 
-
-[+] Caffeine 
-
-[+] Color Picker
-
-[+] Dash to Dock 
-
-[+] Just Perfection
-
-[+] Open Bar
-
-[+] Rounded Window Corners Reborn
-
-[+] Space Bar 
-
-[+] Status Area Horizontal Spacing 
-
-[+] Tiling Shell 
-
-[+] User Themes 
-
-[+] Vitals
+    [+] ArcMenu
+    [+] Bluetooth Battery Meter
+    [+] Blur My Shell
+    [+] Caffeine
+    [+] Color Picker
+    [+] Dash to Dock
+    [+] Just Perfection
+    [+] Open Bar
+    [+] Rounded Window Corners Reborn
+    [+] Space Bar
+    [+] Status Area Horizontal Spacing
+    [+] Tiling Shell
+    [+] User Themes
+    [+] Vitals
 
 ==================================================
 
 INSTALL
-Gnome extension app (search up and click install, it IS manual, but easy and reliable. All extensions are updated (4.15.2026), make sure to enter the name EXACTLY as in the list)
-Ghostty terminal
+
+    GNOME Extensions App
+        → search exact names
+        → install manually (fast and reliable)
+        → extensions updated: 2026-04-15
+
+    Ghostty Terminal
 
 ==================================================
 
 BACKUP / RESTORE
 
-dconf dump /org/gnome/shell/extensions/ > extensions.conf
-
-dconf load /org/gnome/shell/extensions/ < extensions.conf
-
-GHOSTTY
-
-Apply:
-
-Open terminal, right click, open configuration, paste the config there
+    dconf dump /org/gnome/shell/extensions/ > extensions.conf
+    dconf load /org/gnome/shell/extensions/ < extensions.conf
 
 ==================================================
 
-MIT LICENSE
+GHOSTTY
+
+    Apply:
+        open terminal
+        right click → open configuration
+        paste config
+
+==================================================
+
+INSTALL SCRIPT
+
+    chmod +x install.sh
+    ./install.sh
+
+==================================================
+
+USAGE
+
+    - change wallpaper in GNOME
+    - colors update automatically
+
+==================================================
+
+NOTES
+
+    - works after restart
+    - GNOME only (auto mode)
+    - manual:
+        wal -i image.jpg
+
+==================================================
+
+LICENSE
+
+    MIT
+
+==================================================
