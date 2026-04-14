@@ -1,5 +1,7 @@
 # classarty_dots
+
 ==================================================
+
 WALLPAPERS
 
 These wallpapers were collected from various sources online.
@@ -9,6 +11,7 @@ If you are the original creator and want credit or removal,
 please open an issue or contact me.
 
 ==================================================
+
 GNOME EXTENSIONS SETUP
 
 clean setup | simple install | easy restore
