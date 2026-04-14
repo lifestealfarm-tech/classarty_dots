@@ -1,15 +1,4 @@
 # classarty_dots
-
-==================================================
-
-WALLPAPERS
-
-These wallpapers were collected from various sources online.
-I do not own or claim ownership of any of them.
-
-If you are the original creator and want credit or removal,
-please open an issue or contact me.
-
 ==================================================
 
 GNOME EXTENSIONS SETUP
@@ -21,18 +10,31 @@ clean setup | simple install | easy restore
 EXTENSIONS
 
 [+] ArcMenu 
+
 [+] Bluetooth Battery Meter 
+
 [+] Blur My Shell 
+
 [+] Caffeine 
+
 [+] Color Picker
+
 [+] Dash to Dock 
+
 [+] Just Perfection
+
 [+] Open Bar
+
 [+] Rounded Window Corners Reborn
+
 [+] Space Bar 
+
 [+] Status Area Horizontal Spacing 
+
 [+] Tiling Shell 
+
 [+] User Themes 
+
 [+] Vitals
 
 ==================================================
