@@ -41,12 +41,17 @@ EXTENSIONS
 
 INSTALL
 Gnome extension app (search up and click install, it IS manual, but easy and reliable. All extensions are updated (4.15.2026), make sure to enter the name EXACTLY as in the list)
+Ghostty terminal
 
 ==================================================
 
 BACKUP / RESTORE
 dconf dump /org/gnome/shell/extensions/ > extensions.conf
 dconf load /org/gnome/shell/extensions/ < extensions.conf
+
+GHOSTTY
+Apply:
+Open terminal, right click, open configuration, paste the config there
 
 ==================================================
 
