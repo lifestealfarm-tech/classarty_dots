@@ -52,6 +52,20 @@ INSTALL SCRIPT (pywal + ghostty)
 
 ==================================================
 
+MY WALLPAPER COLLECTION
+
+Download:
+
+    https://mega.nz/fm/Hn53XL5C
+
+These wallpapers are not my work.
+
+I do not own the rights to them.
+
+If you are the creator and want removal, contact me.
+
+==================================================
+
 USAGE
 
     - change wallpaper in GNOME
