@@ -3,7 +3,7 @@
 
 GNOME EXTENSIONS SETUP
 
-    clean setup | simple install | consistent results
+    clean setup | simple install
 
 ==================================================
 
@@ -32,8 +32,9 @@ INSTALL
         → search names exactly as listed
         → install each extension
         → tested on 2026-04-15
+        → install ghostty (idk if the script does 
+          that, i recomend you install it manually)
 
-    Optional: install Ghostty for matching terminal setup
 
 ==================================================
 
@@ -44,21 +45,10 @@ BACKUP / RESTORE
 
 ==================================================
 
-GHOSTTY
+INSTALL SCRIPT (pywal + ghostty)
 
-    Apply:
-        open terminal
-        right click → configuration
-        paste config
-
-==================================================
-
-INSTALL SCRIPT (PYWAL ONLY)
-
-    Installs and sets up pywal
-
-    chmod +x pywal_install.sh
-    ./pywal_install.sh
+    chmod +x install.sh
+    ./install.sh
 
 ==================================================
 
@@ -73,8 +63,6 @@ NOTES
 
     - restart session if needed
     - GNOME only for auto mode
-    - manual:
-        wal -i image.jpg
 
 ==================================================
 
